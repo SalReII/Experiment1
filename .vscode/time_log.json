@@ -1,0 +1,2040 @@
+{
+  "Diss": {
+    "Exp1/lfw_convertation.py": [
+      {
+        "date": "2026-04-27T15:07:15.971Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-04-27T15:07:59.940Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 5
+      }
+    ],
+    "Exp1/main.py": [
+      {
+        "date": "2026-04-27T15:07:50.742Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2026-04-27T15:11:01.346Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 125
+      },
+      {
+        "date": "2026-04-27T15:12:06.567Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 65
+      },
+      {
+        "date": "2026-04-27T15:12:30.706Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 24
+      },
+      {
+        "date": "2026-04-27T15:12:33.514Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-04-27T15:12:35.334Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-04-27T15:12:43.152Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2026-04-27T15:13:40.668Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 58
+      },
+      {
+        "date": "2026-04-27T15:13:45.604Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-04-27T15:13:47.303Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-04-27T15:13:59.537Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2026-04-27T15:14:02.623Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-04-27T15:14:46.165Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 44
+      },
+      {
+        "date": "2026-04-27T15:14:58.366Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2026-04-27T15:15:00.016Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-04-27T15:15:29.538Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 30
+      },
+      {
+        "date": "2026-04-27T15:19:11.216Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 222
+      },
+      {
+        "date": "2026-04-27T15:19:11.980Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T15:20:09.012Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 57
+      },
+      {
+        "date": "2026-04-27T15:21:33.306Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 84
+      },
+      {
+        "date": "2026-04-27T15:21:34.534Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T15:22:01.593Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 27
+      },
+      {
+        "date": "2026-04-27T15:22:40.219Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 39
+      },
+      {
+        "date": "2026-04-27T15:22:45.093Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-04-27T15:23:13.270Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2026-04-27T15:23:15.202Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-04-27T15:23:45.973Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 31
+      },
+      {
+        "date": "2026-04-27T15:23:52.283Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T15:24:23.456Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 31
+      },
+      {
+        "date": "2026-04-27T15:24:52.688Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 29
+      },
+      {
+        "date": "2026-04-27T15:24:55.287Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-04-27T15:25:15.251Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2026-04-27T15:26:01.215Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 46
+      },
+      {
+        "date": "2026-04-27T15:28:28.060Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 147
+      },
+      {
+        "date": "2026-04-27T15:28:28.838Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T15:28:33.039Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-04-27T15:29:15.059Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 42
+      },
+      {
+        "date": "2026-04-27T15:30:55.447Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 100
+      },
+      {
+        "date": "2026-04-27T15:31:20.279Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2026-04-27T15:31:26.379Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T15:32:21.662Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 55
+      },
+      {
+        "date": "2026-04-27T15:32:22.406Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T15:32:38.594Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2026-04-27T15:32:46.651Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2026-04-27T15:32:53.825Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-04-27T15:33:19.355Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 26
+      },
+      {
+        "date": "2026-04-27T15:34:29.886Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 71
+      },
+      {
+        "date": "2026-04-27T15:34:31.822Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-04-27T15:35:07.760Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 36
+      },
+      {
+        "date": "2026-04-27T15:35:22.294Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2026-04-27T15:35:34.238Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2026-04-27T15:36:46.989Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 73
+      },
+      {
+        "date": "2026-04-27T15:36:49.361Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-04-27T15:37:27.877Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 39
+      },
+      {
+        "date": "2026-04-27T15:37:43.369Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2026-04-27T15:37:47.316Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-04-27T15:39:46.724Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 119
+      },
+      {
+        "date": "2026-04-27T15:39:52.268Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T15:39:53.480Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T15:40:08.894Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2026-04-27T15:41:15.330Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 66
+      },
+      {
+        "date": "2026-04-27T15:41:48.520Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 33
+      },
+      {
+        "date": "2026-04-27T15:42:57.954Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 69
+      },
+      {
+        "date": "2026-04-27T15:43:02.759Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-04-27T15:44:11.259Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 68
+      },
+      {
+        "date": "2026-04-27T15:44:26.182Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2026-04-27T15:44:26.598Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-04-27T15:45:27.529Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 61
+      },
+      {
+        "date": "2026-04-27T15:46:22.098Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 55
+      },
+      {
+        "date": "2026-04-27T15:48:23.520Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 121
+      },
+      {
+        "date": "2026-04-27T15:49:24.861Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 61
+      },
+      {
+        "date": "2026-04-27T15:49:32.166Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-04-27T15:49:46.421Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2026-04-27T15:49:47.484Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T15:50:13.539Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 26
+      },
+      {
+        "date": "2026-04-27T15:50:13.894Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-04-27T15:50:16.788Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-04-27T15:50:17.485Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T15:50:18.388Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T15:50:19.036Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T15:50:30.109Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2026-04-27T15:50:31.099Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T15:50:44.113Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2026-04-27T15:50:46.057Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-04-27T15:50:47.437Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T15:51:00.814Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2026-04-27T15:51:18.699Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2026-04-27T15:51:21.458Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-04-27T15:51:27.216Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T15:51:34.380Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-04-27T15:51:52.808Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2026-04-27T15:51:53.041Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-04-27T15:52:09.828Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2026-04-27T15:52:11.480Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-04-27T15:53:08.802Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 57
+      },
+      {
+        "date": "2026-04-27T15:53:14.770Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T15:53:30.096Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2026-04-27T15:54:05.140Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 35
+      },
+      {
+        "date": "2026-04-27T15:54:05.472Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-04-27T15:54:15.519Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2026-04-27T15:54:23.283Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2026-04-27T15:55:28.044Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 65
+      },
+      {
+        "date": "2026-04-27T15:57:06.648Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 99
+      },
+      {
+        "date": "2026-04-27T15:57:12.600Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T15:57:47.005Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 34
+      },
+      {
+        "date": "2026-04-27T15:57:47.415Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-04-27T15:58:01.630Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2026-04-27T15:58:08.291Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-04-27T16:00:55.526Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 167
+      },
+      {
+        "date": "2026-04-27T16:01:49.863Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 54
+      },
+      {
+        "date": "2026-04-27T16:01:50.942Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T16:01:52.028Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T16:01:55.830Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-04-27T16:01:59.920Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-04-27T16:02:21.993Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2026-04-27T16:02:59.923Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 38
+      },
+      {
+        "date": "2026-04-27T16:03:10.702Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2026-04-27T16:03:17.111Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T16:03:18.046Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T16:03:19.195Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T16:03:24.936Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T16:03:46.499Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2026-04-27T16:03:57.565Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2026-04-27T16:04:08.316Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2026-04-27T16:04:20.155Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2026-04-27T16:04:57.936Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 38
+      },
+      {
+        "date": "2026-04-27T16:07:20.677Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 143
+      },
+      {
+        "date": "2026-04-27T16:07:25.495Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-04-27T16:07:39.722Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2026-04-27T16:08:30.511Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 51
+      },
+      {
+        "date": "2026-04-27T16:09:51.071Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 81
+      },
+      {
+        "date": "2026-04-27T16:09:51.642Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T16:10:16.723Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2026-04-27T16:10:19.765Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-04-27T16:10:20.186Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-04-27T16:10:25.421Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-04-27T16:10:25.865Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-04-27T16:12:25.693Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 120
+      },
+      {
+        "date": "2026-04-27T16:12:30.421Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-04-27T16:13:19.870Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 49
+      },
+      {
+        "date": "2026-04-27T16:13:26.186Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T16:14:31.017Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 65
+      },
+      {
+        "date": "2026-04-27T16:18:00.287Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 209
+      },
+      {
+        "date": "2026-04-27T16:20:04.315Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 124
+      },
+      {
+        "date": "2026-04-27T16:20:05.768Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T16:20:15.200Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2026-04-27T16:21:05.232Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 50
+      },
+      {
+        "date": "2026-04-27T16:22:58.205Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-04-27T16:23:07.341Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2026-04-27T16:23:56.996Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 50
+      },
+      {
+        "date": "2026-04-27T16:24:04.543Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2026-04-27T16:25:10.948Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 66
+      },
+      {
+        "date": "2026-04-27T16:26:23.767Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 73
+      },
+      {
+        "date": "2026-04-27T16:27:06.610Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 43
+      },
+      {
+        "date": "2026-04-27T16:28:29.883Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 83
+      },
+      {
+        "date": "2026-04-27T16:28:47.872Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2026-04-27T16:28:50.313Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-04-27T16:28:58.499Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2026-04-27T16:30:05.778Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 67
+      },
+      {
+        "date": "2026-04-27T16:31:17.087Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 71
+      },
+      {
+        "date": "2026-04-27T16:31:29.595Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2026-04-27T16:31:46.729Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2026-04-27T16:31:50.523Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-04-27T16:32:06.545Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2026-04-27T16:32:12.265Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T16:32:22.866Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2026-04-27T16:32:36.739Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2026-04-27T16:33:07.697Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 31
+      },
+      {
+        "date": "2026-04-27T16:33:33.450Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 26
+      },
+      {
+        "date": "2026-04-27T16:34:06.014Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 33
+      },
+      {
+        "date": "2026-04-27T16:34:43.492Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 37
+      },
+      {
+        "date": "2026-04-27T16:35:36.200Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 53
+      },
+      {
+        "date": "2026-04-27T16:35:52.719Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2026-04-27T16:39:04.309Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T16:40:38.458Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 94
+      },
+      {
+        "date": "2026-04-27T16:40:53.392Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2026-04-27T16:41:30.527Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 37
+      },
+      {
+        "date": "2026-04-27T16:41:37.816Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-04-27T16:42:32.747Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 55
+      },
+      {
+        "date": "2026-04-27T16:46:18.983Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2026-04-27T16:46:20.061Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T16:46:23.190Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-04-27T16:46:24.915Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-04-27T16:46:25.700Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T16:46:37.788Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2026-04-27T16:46:45.440Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2026-04-27T16:47:08.812Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2026-04-27T16:47:48.113Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 39
+      },
+      {
+        "date": "2026-04-27T16:47:53.866Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T16:48:13.403Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2026-04-27T16:48:14.166Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T16:48:45.408Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 31
+      },
+      {
+        "date": "2026-04-27T16:49:29.792Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 44
+      },
+      {
+        "date": "2026-04-27T16:49:30.935Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T16:49:31.786Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T16:49:37.053Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-04-27T16:49:38.181Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T16:49:41.345Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-04-27T16:49:54.537Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2026-04-27T16:50:03.521Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2026-04-27T16:51:09.549Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 66
+      },
+      {
+        "date": "2026-04-27T16:52:07.415Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 58
+      },
+      {
+        "date": "2026-04-27T16:52:08.846Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T16:52:11.157Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-04-27T16:53:17.309Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 66
+      },
+      {
+        "date": "2026-04-27T16:53:18.783Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      }
+    ],
+    "Dissertation - Quality-Adaptive Multi-Modal Face Recognition.pdf": [
+      {
+        "date": "2026-04-27T18:55:04.615Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2026-04-27T18:55:06.030Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T18:55:08.761Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-04-27T18:55:12.206Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 3
+      }
+    ],
+    "Exp1/main.py.git": [
+      {
+        "date": "2026-04-27T18:55:22.668Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-04-27T18:55:55.037Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 32
+      },
+      {
+        "date": "2026-04-27T18:55:57.703Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-04-27T18:56:04.194Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T18:56:47.340Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 43
+      },
+      {
+        "date": "2026-04-27T18:57:02.766Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2026-04-27T18:57:06.207Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-04-27T18:57:07.080Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T18:57:08.536Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T18:57:13.864Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-04-27T18:57:19.730Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T18:57:20.871Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T18:57:34.660Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 14
+      }
+    ],
+    "README.md.git": [
+      {
+        "date": "2026-04-27T18:58:42.957Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T18:59:41.840Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 59
+      },
+      {
+        "date": "2026-04-27T18:59:43.030Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-04-27T18:59:49.210Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T18:59:59.227Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2026-04-27T19:05:30.414Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 331
+      },
+      {
+        "date": "2026-04-27T19:10:37.292Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 307
+      },
+      {
+        "date": "2026-04-27T19:11:14.377Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 37
+      },
+      {
+        "date": "2026-04-27T19:11:18.343Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-04-27T19:11:23.484Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-04-27T19:11:50.333Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 27
+      }
+    ],
+    "Exp1/.vscode/time_log.json.git": [
+      {
+        "date": "2026-04-27T19:12:03.574Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T19:12:18.217Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2026-04-27T19:12:25.544Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-04-27T19:12:32.184Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-04-27T19:12:37.040Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-04-27T19:12:42.558Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T19:13:12.253Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 30
+      },
+      {
+        "date": "2026-04-27T19:13:25.733Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2026-04-27T19:13:33.466Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2026-04-27T19:14:20.699Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2026-04-27T19:14:26.987Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T19:14:32.349Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-04-27T19:19:32.918Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-04-27T19:19:38.109Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-04-27T19:19:43.349Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-04-27T19:19:48.923Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-04-27T19:19:51.239Z",
+        "user": {
+          "name": "Amir",
+          "email": "amir.kaiyrbek008@gmail.com"
+        },
+        "timeSpent": 2
+      }
+    ]
+  }
+}
